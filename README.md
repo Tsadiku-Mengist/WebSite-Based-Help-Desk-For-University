@@ -1,2 +1,22 @@
 # WebSite Based Help Desk For University
- Help desk software using Vue3.js, tailiwnd css, npm, node.js and jeson server
+
+## Project setup
+```
+### open on editor 
+```
+  may visual studio
+  ```
+
+### open new therminal
+```
+  cd my-project
+  ```
+  npm install
+  ```
+### to run
+```
+  npm run dev
+  ```
+
+
+
